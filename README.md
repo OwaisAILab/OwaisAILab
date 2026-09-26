@@ -31,6 +31,7 @@ Currently progressing from classical ML and deep data analysis toward **Deep Lea
 <table> 
   <tr> 
     <td width="50%" valign="top">
+
 ### Data & Machine Learning
 - Exploratory Data Analysis & Visualization
 - Data Cleaning & Preprocessing
