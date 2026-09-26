@@ -4,75 +4,65 @@
   <img src="assets/OWAISAILAB_HERO.png" alt="OWAISAILAB - Muhammad Owais Meethani" width="100%" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/OwaisAILab">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Learner;Building+Practical+Machine+Learning+Solutions;Data+Analysis+%7C+Automation+%7C+AI+Applications;Exploring+LLMs+%26+Agentic+AI" alt="Typing headline"/>
-  </a>
+    <img src="https://komarev.com/ghpvc/?username=OwaisAILab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a> 
+  <a href="https://github.com/OwaisAILab?tab=followers">
+    <img src="https://img.shields.io/github/followers/OwaisAILab?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  </a> 
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Data%20Science-0e75b6?style=flat" alt="Focus" /> 
+  <img src="https://img.shields.io/badge/Built%20with-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> 
+</p> 
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&duration=3000&pause=1000&color=8A9BB5&center=true&vCenter=true&width=700&lines=AI+%2F+Data+Science+Lab;Building+Intelligent+Systems;From+Data+to+Deployable+Solutions" alt="Typing" /> 
 </p>
-
-<p align="center">
-  <a href="https://github.com/OwaisAILab?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=OwaisAILab&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS"/>
-</p>
-
----
 
 ## About Me
+I am an **AI & Data Science builder** focused on turning data and real-world problems into practical, production-ready software.
 
-I am an **AI & Data Science learner and builder** focused on turning data and real-world problems into practical software solutions.
+My work sits at the intersection of **Data Analysis, Machine Learning, AI Applications, Backend Development, and Intelligent Automation**.
 
-My work sits at the intersection of **data analysis, machine learning, AI applications, backend development, and intelligent automation**.
+Currently progressing from classical ML and deep data analysis toward **Deep Learning, LLM Applications, RAG, and Agentic AI**.
 
-I am currently progressing from data analysis and classical machine learning toward **deep learning, LLM applications, RAG, and Agentic AI**.
-
-> **My approach:** understand the problem → analyze the data → build the solution → evaluate it → improve it.
-
----
+> **My approach:** Understand → Analyze → Build → Evaluate → Improve
 
 ## What I Build
-
-<table>
-<tr>
-<td width="50%">
-
+<table> 
+  <tr> 
+    <td width="50%" valign="top">
 ### Data & Machine Learning
-
-- Exploratory Data Analysis
+- Exploratory Data Analysis & Visualization
 - Data Cleaning & Preprocessing
 - Feature Engineering
-- Supervised Machine Learning
-- Regression & Classification
-- Model Evaluation
+- Supervised Learning (Regression & Classification)
+- Model Evaluation & Selection
 - Time-Series Forecasting
-
-</td>
-<td width="50%">
+</td> 
+    <td width="50%" valign="top">
 
 ### AI & Intelligent Systems
-
-- AI-powered applications
-- LLM-based workflows
-- Intelligent automation
-- RAG applications
-- AI assistants
+- AI-powered Applications
+- LLM-based Workflows
+- RAG Applications
+- Intelligent Automation
+- AI Assistants & Agents
 - Agentic AI
-- AI-driven data analysis
-
-</td>
-</tr>
+- AI-driven Data Analysis
+</td> 
+</tr> 
 </table>
 
 ---
 
 ## Technology Stack
 
-### Core
+### Core 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,jupyter,git,github" alt="Core technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,jupyter,sql,github" alt="Core technologies"/>
 </p>
+
 
 ### Application Development
 
@@ -93,41 +83,30 @@ I am currently progressing from data analysis and classical machine learning tow
 ---
 
 ## Featured Work
-
 ### TracePass — Digital Product Passport
-
-A Flask-based **Digital Product Passport** platform focused on product identity, authenticity, traceability, certifications, and QR-based passport verification.
-
-**Focus:** Flask · SQLAlchemy · QR Codes · PostgreSQL · Authentication · Reporting
+A Flask-based **Digital Product Passport** platform focused on product identity, authenticity, traceability, certifications, and QR-based verification.
+<br>Flask SQLAlchemy PostgreSQL QR Codes Auth Reporting
 
 ### CDR Intelligence Portal
-
-An intelligence-oriented application for processing and analyzing **Call Detail Records**, with data-driven workflows designed to surface meaningful patterns from large datasets.
-
-**Focus:** Flask · SQLAlchemy · SQLite · Pandas · Data Analysis · Intelligence Workflows
+Intelligence-oriented app for processing and analyzing **Call Detail Records**, surfacing meaningful patterns from large-scale telecom datasets.
+<br>Flask Pandas SQLite Data Analysis Intelligence Workflows
 
 ### Training Examination Management System
+Online examination platform with **controlled question management, randomized assessments, automated evaluation, and transparent workflows**.
+<br>Python Flask Database Systems Automation
 
-An online examination and assessment platform designed around **controlled question management, randomized assessments, automated evaluation, and transparent examination workflows**.
+### Machine Learning & Data Science Lab
+A growing collection of practical ML work:
 
-**Focus:** Python · Flask · Database Systems · Examination Automation
-
-### Machine Learning & Data Science
-
-A growing collection of practical ML work covering:
-
-- Gold price forecasting
-- Used car price prediction
-- Housing price analysis
-- Regression model comparison
-- Classification model evaluation
-- Exploratory data analysis
-- Feature engineering and preprocessing
+- Gold Price Forecasting
+- Used Car Price Prediction
+- Housing Price Analysis
+- Regression & Classification Model Comparison
+- EDA, Feature Engineering & Preprocessing
 
 ---
 
-## Learning Path
-
+### Learning Path
 <div align="center">
 
 **Pandas & Data Analysis**
@@ -139,34 +118,28 @@ A growing collection of practical ML work covering:
 
 </div>
 
-### Current Focus
+### Current Focus:
 
-- Advanced Pandas and data analysis
-- Supervised machine learning
-- Model evaluation and feature engineering
-- Time-series prediction
-- Deep learning fundamentals
-- Large Language Models
-- Retrieval-Augmented Generation
-- Agentic AI and AI automation
+- Advanced Pandas & Data Analysis
+- Supervised ML & Model Evaluation
+- Time-Series Prediction
+- Deep Learning Fundamentals
+- Large Language Models & RAG
+- Agentic AI & AI Automation
 
 ---
 
 ## GitHub Activity
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=OwaisAILab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" /> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OwaisAILab&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="175" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAILab&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="175" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAILab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" /> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwaisAILab&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" /> 
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OwaisAILab&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
----
 
 ## Development Philosophy
-
 <table>
 <tr>
 <td align="center" width="25%">
@@ -200,26 +173,23 @@ Improve
 </tr>
 </table>
 
-I prefer building **useful systems over isolated demonstrations**. Every project is an opportunity to understand a problem more deeply, apply what I have learned, and create something that can work in a real environment.
+Deep dive into the real problem	Explore data for patterns & signals	Build useful, deployable systems	Evaluate, iterate, and harden
+
+I prefer building **useful systems over isolated demos**. Every project is an opportunity to understand a problem more deeply and ship something that works in a real environment.
 
 ---
 
 ## Connect
-
-<p align="center">
+<p align="left"> 
   <a href="https://github.com/OwaisAILab">
-    <img src="https://img.shields.io/badge/GitHub-OwaisAILab-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
+    <img src="https://img.shields.io/badge/GitHub-OwaisAILab-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a> <!-- Add your LinkedIn / Portfolio links here --> <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> --> 
+</p> 
+<p align="center"> 
   <sub>AI & Data Science · Machine Learning · Automation · Agentic AI</sub>
+  <br> 
+  <b>Learn. Build. Analyze. Automate.</b> 
 </p>
-
-<p align="center">
-  <b>Learn. Build. Analyze. Automate.</b>
-</p>
-
 <p align="center">
   <img src="./assets/owaisailab-banner.svg" width="70%" alt="OwaisAILab"/>
 </p>
