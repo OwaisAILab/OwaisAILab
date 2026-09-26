@@ -1,7 +1,7 @@
 <!-- ========================= HERO ========================= -->
 
 <p align="center">
-  <img src="./assets/owaisailab-banner.svg" width="100%" alt="OwaisAILab — AI & Data Science"/>
+  <img src="assets/OWAISAILAB_HERO.png" alt="OWAISAILAB - Muhammad Owais Meethani" width="100%" />
 </p>
 
 <p align="center">
