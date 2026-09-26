@@ -1,7 +1,7 @@
 <!-- ========================= HERO ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:172554,100:0f766e&text=Muhammad%20Owais%20Meethani&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Intelligent%20Automation&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+  <img src="./assets/owaisailab-banner.svg" width="100%" alt="OwaisAILab — AI & Data Science"/>
 </p>
 
 <p align="center">
@@ -100,23 +100,17 @@ A Flask-based **Digital Product Passport** platform focused on product identity,
 
 **Focus:** Flask · SQLAlchemy · QR Codes · PostgreSQL · Authentication · Reporting
 
----
-
 ### CDR Intelligence Portal
 
 An intelligence-oriented application for processing and analyzing **Call Detail Records**, with data-driven workflows designed to surface meaningful patterns from large datasets.
 
 **Focus:** Flask · SQLAlchemy · SQLite · Pandas · Data Analysis · Intelligence Workflows
 
----
-
 ### Training Examination Management System
 
 An online examination and assessment platform designed around **controlled question management, randomized assessments, automated evaluation, and transparent examination workflows**.
 
 **Focus:** Python · Flask · Database Systems · Examination Automation
-
----
 
 ### Machine Learning & Data Science
 
@@ -137,16 +131,11 @@ A growing collection of practical ML work covering:
 <div align="center">
 
 **Pandas & Data Analysis**
-↓
-**Machine Learning**
-↓
-**Deep Learning**
-↓
-**LLM Applications**
-↓
-**RAG**
-↓
-**Agentic AI**
+→ **Machine Learning**
+→ **Deep Learning**
+→ **LLM Applications**
+→ **RAG**
+→ **Agentic AI**
 
 </div>
 
@@ -231,8 +220,6 @@ I prefer building **useful systems over isolated demonstrations**. Every project
   <b>Learn. Build. Analyze. Automate.</b>
 </p>
 
-<!-- ========================= FOOTER ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:172554,100:0f766e" width="100%"/>
+  <img src="./assets/owaisailab-banner.svg" width="70%" alt="OwaisAILab"/>
 </p>
