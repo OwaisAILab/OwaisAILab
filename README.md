@@ -1,7 +1,7 @@
 <!-- ========================= HERO ========================= -->
 
 <p align="center">
-  <img src="./assets/owaisailab-banner.svg" width="100%" alt="OwaisAILab — AI & Data Science"/>
+  <img src="./assets/OWAISAILA_HERO.png" width="100%" alt="OwaisAILab — AI & Data Science"/>
 </p>
 
 <p align="center">
