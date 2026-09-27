@@ -92,15 +92,20 @@ A Flask-based **Digital Product Passport** platform focused on product identity,
 Intelligence-oriented app for processing and analyzing **Call Detail Records**, surfacing meaningful patterns from large-scale telecom datasets.
 <br>Flask Pandas SQLite Data Analysis Intelligence Workflows
 
+### Rental Housing Society Management
+A Flask-based **Housing Society** that manage record of the entire society from construction to monthly rent.
+
 ### Training Examination Management System
 Online examination platform with **controlled question management, randomized assessments, automated evaluation, and transparent workflows**.
 <br>Python Flask Database Systems Automation
+
+### Used Car Sales Price Predictor
+A car owner enter his car details and system tells his expected resale price.
 
 ### Machine Learning & Data Science Lab
 A growing collection of practical ML work:
 
 - Gold Price Forecasting
-- Used Car Price Prediction
 - Housing Price Analysis
 - Regression & Classification Model Comparison
 - EDA, Feature Engineering & Preprocessing
